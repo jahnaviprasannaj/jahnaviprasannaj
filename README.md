@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @jahnaviprasannaj
-- 👀 I’m interested in cybersecurity and Indian music
-- 🌱 I’m currently learning to do projects here and dive in security
-- 💞️ I’m looking to collaborate on creating beginner friendly projects and getting used to things on professional level
-- 📫 How to reach me jahnaviprasanna.j@gmail.com
+<h1>Hello, I'm Jahnavi! </h1>
+<h2>👨‍💻 Networking and Cyber Security Projects</h2>
 
-<!---
-jahnaviprasannaj/jahnaviprasannaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <b> Windows</b>
+  - [Active Directory](https://github.com/jahnaviprasannaj/laburl1)
+- <b> Linux </b>
+  - [Linux 1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+
+<h2>:page_facing_up: Certifications and Learnings</h2>
+- <b> Comptia Network + & Security + </b> <i> (working towards them) </i>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jahnavi-prasanna-jillellamudi/
